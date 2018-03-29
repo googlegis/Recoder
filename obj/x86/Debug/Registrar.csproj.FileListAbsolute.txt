@@ -1,0 +1,55 @@
+E:\诺基亚\Nokia\Registrar\bin\Debug\Registrar.exe
+E:\诺基亚\Nokia\Registrar\bin\Debug\Registrar.pdb
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\Registrar.Form1.resources
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\Registrar.Properties.Resources.resources
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\Registrar.exe
+E:\诺基亚\Nokia\Registrar\obj\x86\Debug\Registrar.pdb
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\Registrar.exe
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\Registrar.pdb
+F:\NSN\reg注册码\注册机Registrar\bin\Debug\Registrar.exe
+F:\NSN\reg注册码\注册机Registrar\bin\Debug\Registrar.pdb
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\Registrar.Form1.resources
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\Registrar.Properties.Resources.resources
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\NSN\reg注册码\注册机Registrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\nsnxtremeC#\注册机Registrar\bin\Debug\Registrar.exe
+F:\nsnxtremeC#\注册机Registrar\bin\Debug\Registrar.pdb
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\Registrar.Form1.resources
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\Registrar.Properties.Resources.resources
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\Registrar.exe
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\Registrar.pdb
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\Registrar.KindCard.resources
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\nsnxtremeC#\注册机Registrar\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.exe
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.pdb
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.Form1.resources
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.KindCard.resources
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.Properties.Resources.resources
+D:\iDAMDev\注册机Registrar\bin\Debug\Registrar.exe
+D:\iDAMDev\注册机Registrar\bin\Debug\Registrar.pdb
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.csprojResolveAssemblyReference.cache
+D:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.csproj.GenerateResource.Cache
+F:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.exe
+F:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.pdb
+F:\iDAMDev\注册机Registrar\bin\Debug\Registrar.exe
+F:\iDAMDev\注册机Registrar\bin\Debug\Registrar.pdb
+F:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.Form1.resources
+F:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.KindCard.resources
+F:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.Properties.Resources.resources
+F:\iDAMDev\注册机Registrar\obj\x86\Debug\Registrar.csproj.GenerateResource.Cache
+F:\iDAMDev\注册机Registrar\bin\Debug\SentinelKeyForNet.dll
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.exe
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.pdb
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\bin\Debug\Registrar.exe
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\bin\Debug\Registrar.pdb
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.csprojResolveAssemblyReference.cache
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.Form1.resources
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.KindCard.resources
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.Properties.Resources.resources
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.csproj.GenerateResource.Cache

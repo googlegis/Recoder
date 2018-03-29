@@ -1,0 +1,8 @@
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.Form1.resources
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\Registrar.KindCard.resources
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\ReCode.csproj.GenerateResource.Cache
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\bin\Debug\ReLicense.exe
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\bin\Debug\ReLicense.pdb
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\ReLicense.Properties.Resources.resources
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\ReLicense.exe
+C:\Users\jay\Documents\Visual Studio 2013\Projects\NSN\GDCTool\LTETool\Recoder\obj\x86\Debug\ReLicense.pdb

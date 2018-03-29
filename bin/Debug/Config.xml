@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="GB2312"?>
+<NsnConfig>  
+  <Modules name="用户" value="用户管理,群组管理">
+  </Modules>
+  <Modules name="项目管理" value="打开项目,新建项目,删除项目,导入数据,打开测试数据库,删除测试数据库">
+  </Modules>
+  <Modules name="地图" value="系统地图">
+  </Modules>
+  <Modules name="报告">
+  </Modules>
+  <Modules name="呼叫分析">
+  </Modules>  
+  <Modules name="工具" value="选项,频点推荐,配置检查">
+  </Modules>
+  <Modules name="历史比较">
+  </Modules>
+  <Modules name="反馈">
+  </Modules>
+  <Modules name="视图">
+  </Modules>
+  <Modules name="系统地图" value="单小区选择,多小区选择,多边形选择,基站图层重建,信息,测量报告显示,网格过滤,频点工具,快衰落,切换,事件,质差专题,MOS专题,危险路段">
+  </Modules>
+</NsnConfig>

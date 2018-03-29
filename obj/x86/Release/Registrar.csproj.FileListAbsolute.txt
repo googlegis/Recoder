@@ -1,0 +1,9 @@
+E:\诺基亚\Nokia\Registrar\bin\Release\Registrar.exe
+E:\诺基亚\Nokia\Registrar\bin\Release\Registrar.pdb
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\ResolveAssemblyReference.cache
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\Registrar.Form1.resources
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\Registrar.Properties.Resources.resources
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\Registrar.exe
+E:\诺基亚\Nokia\Registrar\obj\x86\Release\Registrar.pdb
